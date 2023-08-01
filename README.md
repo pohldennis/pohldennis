@@ -25,7 +25,11 @@ I am Dennis Pohl (PhD). I am a Bioinformatician with extensive experience in the
 ### Recent courses
 #### July 2023
 ✅ ChatGPT Prompt Engineering for Developers [Short Course @ DeepLearning.AI]
+
 ✅ Building Systems with the ChatGPT API [Short Course @ DeepLearning.AI]
+
 ✅ LangChain for LLM Application Development [Short Course @ DeepLearning.AI]
+
 ✅ LangChain: Chat with Your Data [Short Course @ DeepLearning.AI]
+
 ✅ Building Generative AI Applications with Gradio [Short Course @ DeepLearning.AI]
